@@ -1,5 +1,4 @@
-# FixGeneratorRateEditor
-(Perfect World) Fix Generator + Rate Editor
+# (Perfect World) Fix Generator + Rate Editor
 
 - Pour our files into the program (GS, gfaction, gdeliveryd)
 - Editing
