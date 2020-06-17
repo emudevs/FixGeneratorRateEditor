@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\obj\Debug\FixGenerator+Rate Editor.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\obj\Debug\FixGenerator+Rate Editor.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Admin\Documents\Новая папка (4)\FixGenerator+Rate Editor\obj\Debug\WindowsFormsApplication2.pdb
